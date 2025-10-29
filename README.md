@@ -1,12 +1,10 @@
 # IT-Projects
 Projects completed while attaining a Master's in Science in Information Technology
 
-Portfolio of completed projects I worked on while attending the PROGRAM NAME TripleTen Bootcamp.
-
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-<!--
 | 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+<!--
 | 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
