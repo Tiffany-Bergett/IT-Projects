@@ -6,9 +6,8 @@ This project focuses on the foundational steps of database design and implementa
 
 | File Number | Title                                   | Description                                                                                          |
 | :---------: | --------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-|      1      | [Normalization_Analysis.md](URL HERE) | A complete write-up of the initial database design, anomaly analysis, and the 3NF normalization process. |
-|      2      | [DDL_Implementation.sql](URL HERE)      | The DDL script used to `CREATE` the normalized 3NF schema using standard SQL.                        |
-|      3      | [DML_Queries.sql](URL HERE)             | A collection of DML scripts used to `INSERT` sample data and `SELECT`, `UPDATE`, and `DELETE` records. |
+|      1      | [Normalization_Analysis.md](https://github.com/Tiffany-Bergett/IT-Projects/blob/main/University%20Database%20Lifecycle/DBA%20University%20Database.pdf) | A complete write-up of the initial database design, anomaly analysis, and the 3NF normalization process. |
+|      2      | [DBA University Database.pdf](https://github.com/Tiffany-Bergett/IT-Projects/blob/main/University%20Database%20Lifecycle/Normalization_Analysis.md)      | The DDL script used to `CREATE` the normalized 3NF schema using standard SQL and a collection of DML scripts used to `INSERT` sample data and `SELECT`, `UPDATE`, and `DELETE` records.                         |
 
 ---
 
